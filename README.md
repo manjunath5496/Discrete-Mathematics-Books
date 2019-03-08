@@ -21,3 +21,10 @@
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
+8.  Schaum's Outline of Discrete Mathematics</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+9. Topics in Finite and Discrete Mathematics</br>
+               Pedro Domingos</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
