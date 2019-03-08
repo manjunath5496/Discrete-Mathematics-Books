@@ -40,9 +40,11 @@
 13. Schaum's Outline Of Theory And Problems Of Discrete Mathematics  </br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                                 
-                                
+14. Fundamental Structures of Algebra and Discrete Mathematics  </br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                                
                 
-                
+15. Discrete mathematics with algorithms </br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                      
                 
                 
                 
