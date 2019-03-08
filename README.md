@@ -28,3 +28,30 @@
                Pedro Domingos</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
+10.  Discrete Mathematics for Computing</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+11. Discrete Mathematics for Computer Scientists </br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+12.  Discrete Mathematical Structures</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+13. Schaum's Outline Of Theory And Problems Of Discrete Mathematics  </br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/DS13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                                
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
