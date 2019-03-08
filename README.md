@@ -17,16 +17,14 @@
                 <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 7. Logic and Discrete Mathematics: A Concise Introduction</br>
-               
-                <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+            <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
      
 8.  Schaum's Outline of Discrete Mathematics</br>
                 <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 9. Topics in Finite and Discrete Mathematics</br>
-               
-                <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+              <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 10.  Discrete Mathematics for Computing</br>
                 <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
